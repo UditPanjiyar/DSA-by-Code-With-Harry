@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "73_searching_in_BST.C": "cpp",
+        "74_searching_in_BST.C": "cpp",
+        "stdio.h": "c"
+    }
+}
